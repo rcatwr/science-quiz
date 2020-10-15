@@ -56,7 +56,7 @@ export const Wrapper = styled.div`
     }
 
     h3 {
-        font-size: 24px;
+        font-size: 16px;
         font-weight: 600;
         margin: 0 0 1em;
         text-transform: uppercase;
