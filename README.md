@@ -1,3 +1,13 @@
+## Science Quiz App
+
+![quiz screenshot](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Quiz App")
+
+A simple quiz game using [React](https://www.reactjs.org), [Typescript](https://www.typescriptlang.org/) and [Styled Components](https://styled-components.com/) 💅🏾
+
+The Science and Nature questions are via the [Open Trivia Database](https://opentdb.com/api_config.php)
+
+______________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
